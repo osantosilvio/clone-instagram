@@ -29,5 +29,6 @@
 18. Após fazer todos os ajustes de parâmetros do CSS, resta, como último passo, tratar da responsividade do site em relação a outros dispositivos.
 19. Nesse caso, dev vai designar dois "tamanhos": um para tablets e outro para celulares.
 20. Algumas informações e configurações acabam sendo suprimidas na versão mobile, devido ao tamanho da tela. Nesse caso, essa "exclusão" é realizada nos parâmetros de configuração de tela no @media.
-21. 
+
+    
 
